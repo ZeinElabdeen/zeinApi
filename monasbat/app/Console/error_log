@@ -1,0 +1,1 @@
+[08-Jan-2020 23:48:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/uriallab/public_html/monasbat/app/Console/Kernel.php on line 8

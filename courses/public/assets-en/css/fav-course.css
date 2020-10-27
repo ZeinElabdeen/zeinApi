@@ -1,0 +1,147 @@
+/************ تصميم صفحة المفضلة ************/
+
+/* Header Style */
+
+header {
+    background-image: url('../../storage/images/image 3.png');
+    width: 100%;
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+     background-repeat: no-repeat;
+     opacity: .9;
+}
+
+header .banner {
+   margin: 65px 0;
+    
+}
+
+header .banner h2 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.banner > span {
+    font-size: 25px;
+    color: #fff;
+}
+
+.banner span:first-child{
+    color: #ffae00;
+    font-size: 25px;
+}
+
+/*  END Header */
+
+/* Start New-Courses */
+.fav-course {
+    margin: 20px 0;
+    background-color: #fbfbfb;
+}
+.fav-course .card {
+    margin: 10px 0;
+}
+
+.fav-course h1 {
+    text-align: center;
+    color: #565656;
+    margin: 10px 0;
+}
+.fav-course p{
+    text-align: center;
+}
+.fav-course .card .card-img-top {
+    width: 100%;
+    height: 30vh;
+    border-radius: 10px;
+}
+.fav-course .card .add {
+    position: absolute;
+    right: 18px;
+    top: 15px;
+    padding: 4px 8px;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 5px;
+    background: #ffae00;
+   }
+.fav-course span {
+    text-align: left;
+}
+.fav-course a {
+    text-align: left;
+    padding: 0;
+   
+}
+.fav-course .rate .list-inline {
+    margin: -8px 0 0 0;
+    font-size: 14px;
+    color: #868686;
+}
+.fav-course .rate .list-inline .active{
+    margin: -8px 0 0 0;
+    font-size: 14px;
+    color: #ffae00;
+}
+
+
+.fav-course .card-footer {
+     background-color: #fff;
+ }
+
+ .fav-course .card-footer .link {
+   font-size: 10px;
+   border-radius: 25px;
+   background-color: #dae0e5;
+   padding: 0 8px;
+   text-decoration: none;
+   text-transform: uppercase;
+   display: inline-block;
+   color: #868686;
+ }
+ .fav-course .card-footer .link .fas{
+     font-size: 15px;
+     margin: 0 5px;
+ }
+ .fav-course .card-footer .price{
+    color: #ffae00;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+ }
+
+ .fav-course .btn-warning{
+    border-radius: 12px;
+    color: #fff;
+    padding: 0 15px;
+    margin: 10px 0;
+ }
+
+ .fav-course .btn-warning .fas {
+     color: #fff;
+     padding: 0 4px;
+ }
+
+ .fav-course .pagination .page-item {
+    padding: 0 20px;
+    margin: 30px 0 20px 0;  
+}
+.fav-course .pagination  {
+    justify-content: center;  
+}
+.fav-course .pagination .page-link {
+    border: none;
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+}
+.fav-course .pagination .active {
+   color: #ffae00 !important;
+   background-color: #fff;
+}
+
+/* END NEW courses*/

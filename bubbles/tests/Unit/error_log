@@ -1,0 +1,2 @@
+[26-Jan-2020 14:09:39 UTC] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/uriallab/public_html/bubbles/tests/Unit/ExampleTest.php on line 8
+[03-Feb-2020 05:52:19 UTC] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/uriallab/public_html/bubbles/tests/Unit/ExampleTest.php on line 8

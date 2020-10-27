@@ -1,0 +1,13 @@
+[08-Jan-2020 23:56:58 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/UserResource.php on line 7
+[08-Jan-2020 23:57:33 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/VendorAttaches.php on line 8
+[08-Jan-2020 23:57:49 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/FaqResource.php on line 7
+[08-Jan-2020 23:59:02 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/PlanResource.php on line 8
+[08-Jan-2020 23:59:22 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/AdsCollection.php on line 7
+[08-Jan-2020 23:59:28 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/VendorResource.php on line 7
+[08-Jan-2020 23:59:54 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/CategoryCollection.php on line 7
+[09-Jan-2020 00:00:04 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/UserFollowsCollection.php on line 7
+[09-Jan-2020 00:00:11 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/NotificationCollection.php on line 7
+[09-Jan-2020 00:00:20 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/SettingResource.php on line 7
+[09-Jan-2020 00:00:35 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/FavoriteResource.php on line 7
+[09-Jan-2020 00:00:56 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/CategoriesCollection.php on line 7
+[09-Jan-2020 00:01:01 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/uriallab/public_html/monasbat/app/Http/Resources/VendorDetailsResource.php on line 7

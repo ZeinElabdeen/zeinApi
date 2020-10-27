@@ -1,0 +1,161 @@
+/*************** تصميم صفحة اتصل بنا **************/
+
+/* Header Style */
+
+header {
+    background-image: url('../../storage/images/image 3.png');
+    width: 100%;
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+     background-repeat: no-repeat;
+     opacity: .9;
+}
+
+header .banner {
+   margin: 65px  0;
+    
+}
+
+header .banner h2 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.banner > span {
+    font-size: 25px;
+    color: #fff;
+}
+
+.banner span:first-child{
+    color: #ffae00;
+    font-size: 25px;
+}
+
+/* END HEADER */
+
+/* Start Contact-US */
+
+.contact-us {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.contact-us .form-signin  {
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    margin: auto;
+    border: 2px solid #dae0e5;
+    border-radius: 10px;
+}
+.contact-us .form-signin .us {
+    border-left: 1px solid #dae0e5 ;
+}
+.form-signin h4 {
+  color: #ffae00;
+  font-weight: bold;
+}   
+
+ .contact-us .form-signin label {
+    display: flex;
+    margin: 10px 0;
+    color: #666666;
+    font-weight: bold;
+ }
+ .contact-us .form-signin .form-control{
+    border-top-left-radius: 28px;
+    border-bottom-left-radius: 28px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 45px; 
+ }
+
+ .contact-us .form-signin .btn {
+     margin: 20px 0;
+     background-color: #ffae00;
+     color: #fff;
+     border-radius: 28px;
+ }
+
+ .contact-us .form-signin a {
+     text-decoration: none;
+     color: #ffae00;
+     font-size: 18px;
+ }
+
+/* END CONTACT-US*/
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* 
+  This is the starting grid for each video with thumbnails 4 across for the largest screen size.
+  It's important to use percentages or there may be gaps on the right side of the page. 
+  */
+
+  .video {
+    background: #fff;
+    padding-bottom: 20px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+    width: 23%; /* Thumbnails 4 across */
+    margin: 1%;
+    float: left;
+  }
+
+   /* 
+   These keep the height of each video thumbnail consistent between YouTube and Vimeo.
+   Each can have thumbnail sizes that vary by 1px and are likely break your layout. 
+   */
+
+  .video figure {
+    height: 0;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+
+    .video figure a {
+      display: block;
+      margin: 0;
+      padding: 0;
+      border: none;
+      line-height: 0;
+    }
+  }
+
+  /* Media Queries - This is the responsive grid. */
+
+  @media (max-width: 1024px) {
+    .video {
+      width: 31.333%; /* Thumbnails 3 across */
+    }
+  }
+
+  @media (max-width: 600px) {
+    .video {
+      width: 48%; /* Thumbnails 2 across */
+    }
+  }
+
+  @media (max-width: 360px) {
+    .video {
+      display: block;
+      width: 96%; /* Single column view. */
+      margin: 2%; /* The smaller the screen, the smaller the percentage actually is. */
+      float: none;
+    }
+  }
+
+  /* These are my preferred rollover styles. */
+
+  .video img {
+    width: 100%;
+    opacity: 1;
+  }
+
+  .video img:hover, .video img:active, .video img:focus {
+    opacity: 0.75;
+  }
+
+

@@ -1,0 +1,12 @@
+[09-Jan-2020 03:48:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/uriallab/public_html/monasbat/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/bootstrap/app.php on line 14
+[13-Jan-2020 05:20:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/uriallab/public_html/monasbat/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/bootstrap/app.php on line 14
+[30-Jan-2020 14:52:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/uriallab/public_html/monasbat/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/bootstrap/app.php on line 14

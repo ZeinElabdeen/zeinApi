@@ -1,0 +1,12 @@
+[16-Jan-2020 19:50:33 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/uriallab/public_html/bubbles/app/Models/User.php on line 10
+[16-Jan-2020 19:50:42 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/bubbles/app/Models/Rate.php on line 7
+[16-Jan-2020 19:50:54 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/uriallab/public_html/bubbles/app/Models/Driver.php on line 10
+[16-Jan-2020 19:51:05 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/bubbles/app/Models/Faq.php on line 7
+[16-Jan-2020 19:51:16 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/bubbles/app/Models/Setting.php on line 7
+[16-Jan-2020 19:51:27 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/bubbles/app/Models/DeliverRequest.php on line 7
+[16-Jan-2020 19:51:39 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/uriallab/public_html/bubbles/app/Models/Admin.php on line 8
+[16-Jan-2020 19:51:50 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/bubbles/app/Models/Follow.php on line 7
+[16-Jan-2020 19:52:01 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/bubbles/app/Models/Attach.php on line 7
+[16-Jan-2020 19:52:13 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/bubbles/app/Models/Package.php on line 7
+[16-Jan-2020 19:52:25 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/bubbles/app/Models/Contact.php on line 7
+[16-Jan-2020 19:52:39 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/bubbles/app/Models/Notification.php on line 7

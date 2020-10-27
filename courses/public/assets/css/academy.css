@@ -1,0 +1,135 @@
+/************* تصميم صفحة المعاهد **************/
+
+/************* ACADEMY PAGE STYLE **************/
+header {
+    background-image: url('../../storage/images/image 3.png');
+    width: 100%;
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+     background-repeat: no-repeat;
+     opacity: .9;
+}
+
+header .banner {
+   margin: 65px  0;
+    
+}
+
+header .banner h2 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.banner > span {
+    font-size: 25px;
+    color: #fff;
+}
+
+.banner span:first-child{
+    color: #ffae00;
+    font-size: 25px;
+}
+
+/*  END Header */
+
+/*Start new-academy */
+.new-academy {
+    margin: 20px 0;
+    background-color: #FFF;
+}
+.new-academy .card {
+    margin: 10px 0;
+}
+
+.new-academy h1 {
+    text-align: center;
+    color: #565656;
+    margin: 10px 0;
+}
+.new-academy p{
+    text-align: center;
+}
+.new-academy .card .card-img-top {
+    width: 100%;
+    height: 30vh;
+    border-radius: 10px;
+}
+
+.new-academy span {
+    text-align: left;
+}
+.new-academy a {
+    text-align: right;
+    padding: 0;
+   
+}
+.new-academy .rate .list-inline {
+    margin: -8px 0 0 0;
+    font-size: 14px;
+    color: #868686;
+}
+.new-academy .rate .list-inline .active{
+    margin: -8px 0 0 0;
+    font-size: 14px;
+    color: #ffae00;
+}
+
+
+.new-academy .card-footer {
+     background-color: #fff;
+ }
+ .new-academy .card-footer .link {
+     font-size: 10px;
+   border-radius: 25px;
+   background-color: #dae0e5;
+   padding: 0 8px;
+   text-decoration: none;
+   text-transform: uppercase;
+   display: inline-block;
+   color: #868686;
+ }
+ .new-academy .card-footer .link .fas{
+     font-size: 15px;
+     margin: 0 5px;
+ }
+ .new-academy .card-footer .price{
+    color: #ffae00;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+ }
+
+ .new-academy .btn-warning{
+    border-radius: 12px;
+    color: #fff;
+    padding: 0 15px;
+    margin: 10px 0;
+ }
+
+ .new-academy .btn-warning .fas {
+     color: #fff;
+     padding: 0 4px;
+ }
+
+ .new-academy .pagination .page-item {
+    padding: 0 20px;
+    margin: 30px 0 20px 0;  
+}
+.new-academy .pagination  {
+    justify-content: center;  
+}
+.new-academy .pagination .page-link {
+    border: none;
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+}
+.new-academy .pagination .active {
+   color: #ffae00 !important;
+   background-color: #fff;
+}
+ /*End new-academy */

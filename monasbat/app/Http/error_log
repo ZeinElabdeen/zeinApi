@@ -1,0 +1,1 @@
+[08-Jan-2020 23:40:21 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/uriallab/public_html/monasbat/app/Http/Kernel.php on line 7

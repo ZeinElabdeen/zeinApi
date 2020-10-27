@@ -1,0 +1,436 @@
+/*
+    typed..Zeinab Nasser
+*/
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Almarai:400,700&display=swap");
+/* fonts */
+body {
+  font-family: "Almarai", sans-serif;
+}
+
+.text-right {
+  text-align: left !important;
+}
+
+header .navbar .underline-hover:hover {
+  right: 0;
+  left: 100%;
+  -webkit-transition-property: left;
+  transition-property: left;
+}
+
+header .navbar .underline-hover:hover:before,
+header .navbar .underline-hover:focus:before,
+header .navbar .underline-hover:active:before {
+  left: 0;
+}
+
+.home-slider .slick-dots {
+  text-align: right;
+  padding-right: 30px;
+}
+
+.btn .icon {
+  margin-right: 20px;
+  transform: scale(-1);
+}
+
+.custom-control-inline {
+  padding-right: 1.5rem;
+  padding-left: 0;
+  margin-left: 1rem;
+  margin-right: 0;
+}
+
+.custom-control-inline .custom-control-label::before, .custom-control-inline .custom-control-label::after {
+  right: -1.5rem;
+  left: auto;
+}
+
+.radio-color {
+  padding-right: 0;
+  margin-left: 10px;
+}
+
+.radio-color .custom-control-label {
+  left: auto;
+  right: -5px;
+}
+
+.radio-size {
+  padding-right: 0;
+  margin-left: 10px;
+}
+
+.radio-btn {
+  margin-right: 0;
+  margin-left: 5px;
+  padding-right: 0;
+}
+
+.custom-select {
+  background: #fff url(../img/icons/dropdown.png) no-repeat left 0.75rem center;
+}
+
+input[type=email],
+input[type=tel] {
+  text-align: right;
+}
+
+.category-card .card-body:before {
+  right: 0;
+  border-radius: 0 0 0 100%;
+  -webkit-border-radius: 0 0 0 100%;
+  -moz-border-radius: 0 0 0 100%;
+  -ms-border-radius: 0 0 0 100%;
+  -o-border-radius: 0 0 0 100%;
+  transform-origin: 100% 0;
+  -ms-transform-origin: 100% 0;
+  -webkit-origin: 100% 0;
+}
+
+.product-card .options .list-inline-item:not(:last-child) {
+  margin-left: 0;
+}
+
+.product-card .card-header .badge.sale-badge {
+  left: 15px;
+}
+
+.product-card .card-header .badge.sale-badge:before {
+  right: 6px;
+  border-right: 6px solid #e44343;
+}
+
+.product-card .card-header .badge.new-badge {
+  right: 15px;
+}
+
+.product-card .card-header .badge.new-badge:before {
+  left: 6px;
+  border-left: 6px solid #6bb75d;
+}
+
+.product-card .card-body .switch-color {
+  right: auto;
+  left: 0;
+}
+
+.product-card .card-body .switch-color .list-inline-item:not(:last-child) {
+  margin-right: 2px;
+}
+
+footer .list-links .list-inline-item:not(:last-child) {
+  margin-left: 1.5rem;
+}
+
+footer .list-social {
+  text-align: left;
+}
+
+.show-filter,
+.hide-filter {
+  left: 25px;
+}
+
+.search-filter .block .list-group .list-group-item .custom-control {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.search-filter .block .list-group .list-group-item .custom-control .custom-control-label .color {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+.product-details .product-option .counter,
+.product-details .product-option .btn {
+  margin-left: 15px;
+}
+
+.product-details .product-option span {
+  margin-right: 0;
+  margin-left: 15px;
+}
+
+.product-details .more-info li .icon {
+  margin-left: 20px;
+}
+
+.items .slick-arrow.prev-arrow {
+  right: -30px;
+}
+
+.items .slick-arrow.next-arrow {
+  left: -30px;
+}
+
+.items .slick-arrow.prev-arrow, .items .slick-arrow.next-arrow {
+  transform: scale(-1);
+}
+
+.faqAccordion .btn .icon-box {
+  margin-left: 10px;
+}
+
+.faqAccordion .btn .icon-box .icon {
+  margin-right: 0;
+}
+
+.breadcrumb-item + .breadcrumb-item {
+  padding-left: 0;
+  padding-right: 0.5rem;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  padding-right: 0;
+  padding-left: 0.5rem;
+}
+
+.cart-list .body .cart-item .product-item h5 {
+  padding-right: 15px;
+}
+
+.cart-list .coupon .form-control {
+  margin-left: 10px;
+}
+
+.pagination .page-item:not(:first-child) {
+  margin-right: 5px;
+  margin-left: 0;
+}
+
+.pagination .page-item:first-of-type .page-link, .pagination .page-item:last-of-type .page-link {
+  transform: scale(-1);
+}
+
+@media (max-width: 991px) {
+  .search-filter {
+    right: -100%;
+    left: 0;
+  }
+
+  .search-filter.show {
+    right: 0;
+  }
+
+  header .navbar .nav-link {
+    padding-right: 15px;
+  }
+
+  header .navbar .nav-link:hover:before, header .navbar .nav-link:focus:before, header .navbar .nav-link.active:before, header .navbar .nav-link:active:before {
+    right: 15px;
+  }
+
+  header .navbar .navbar-collapse {
+    transform-origin: left;
+    left: -100%;
+  }
+
+  header .navbar .navbar-collapse .nav-link:hover:before, header .navbar .navbar-collapse .nav-link:focus:before, header .navbar .navbar-collapse .nav-link.active:before, header .navbar .navbar-collapse .nav-link:active:before {
+    right: 0;
+  }
+
+  header .navbar .navbar-collapse.show {
+    left: 0;
+  }
+}
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+/*# sourceMappingURL=style-ar.css.map */
+
+/*# sourceMappingURL=style-ar.css.map */

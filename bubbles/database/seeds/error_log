@@ -1,0 +1,1 @@
+[16-Jan-2020 19:56:55 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/uriallab/public_html/bubbles/database/seeds/DatabaseSeeder.php on line 5

@@ -1,0 +1,2 @@
+[08-Jan-2020 23:50:18 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Controller.php on line 10
+[08-Jan-2020 23:51:12 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/ResponseController.php on line 7

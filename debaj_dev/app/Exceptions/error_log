@@ -1,0 +1,1 @@
+[08-Jan-2020 23:08:29 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/uriallab/public_html/monasbat/app/Exceptions/Handler.php on line 8

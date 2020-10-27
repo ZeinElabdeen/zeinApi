@@ -1,0 +1,82 @@
+/********** تصميم صفحة الأسئلة الشائعة **********/
+
+/* Start Header */
+
+header {
+    background-image: url('../../storage/images/image 3.png');
+    width: 100%;
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+     background-repeat: no-repeat;
+     opacity: .9;
+}
+
+header .banner {
+   margin: 65px  0;
+    
+}
+
+header .banner h2 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.banner > span {
+    font-size: 25px;
+    color: #fff;
+}
+
+.banner span:first-child{
+    color: #ffae00;
+    font-size: 25px;
+}
+
+/*  END Header */
+
+/****START Questions STYLE****/
+
+ .question .accordion {
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    padding: 15px;
+}
+.question .accordion .card {
+    margin: 15px 0;
+  
+}
+.question .accordion .card-header h2 {
+    text-align: right;
+  
+}
+.question .accordion .card-header .btn-link {
+      color: #666666;
+      text-decoration: none;
+      font-size: 20px;
+      font-weight: 900;
+  }
+  .question .accordion img {
+      border: none;
+      padding: 0 8px;
+  }
+  .active, .btn-link:active{
+      background-color: #ffae00;
+      color: #FFF !important;
+  }
+  
+
+  .accordion .card-body {
+      color:#999999;
+      font-size: 16px;
+      font-weight: bold;
+      text-align: right;
+  }
+
+  /**** END Question Style *****/
+
+  #active-notes{
+    color: #ffae00!important;
+    border-bottom: 1px solid #ffae00;
+  }

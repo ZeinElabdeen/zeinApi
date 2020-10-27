@@ -1,0 +1,56 @@
+[31-Jan-2020 02:07:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/cache.php on line 21
+[31-Jan-2020 02:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/jwt.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/jwt.php on line 28
+[31-Jan-2020 02:07:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/app.php on line 16
+[31-Jan-2020 02:07:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/uriallab/public_html/bubbles/config/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/view.php on line 17
+[31-Jan-2020 02:07:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/session.php on line 21
+[31-Jan-2020 02:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/queue.php on line 16
+[31-Jan-2020 02:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/logging.php on line 19
+[31-Jan-2020 02:07:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/hashing.php on line 32
+[31-Jan-2020 02:07:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/services.php on line 18
+[31-Jan-2020 02:07:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/database.php on line 18
+[31-Jan-2020 02:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/filesystems.php on line 16
+[31-Jan-2020 02:08:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/laravel-fcm.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/laravel-fcm.php on line 10
+[31-Jan-2020 02:08:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/broadcasting.php on line 18
+[31-Jan-2020 02:10:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/bubbles/config/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/bubbles/config/config/mail.php on line 19

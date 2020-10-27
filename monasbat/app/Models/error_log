@@ -1,0 +1,17 @@
+[08-Jan-2020 23:12:17 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Plan.php on line 7
+[08-Jan-2020 23:12:18 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Ad.php on line 7
+[08-Jan-2020 23:12:19 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/uriallab/public_html/monasbat/app/Models/User.php on line 9
+[08-Jan-2020 23:12:20 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Rate.php on line 7
+[08-Jan-2020 23:12:21 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/uriallab/public_html/monasbat/app/Models/Admin.php on line 7
+[08-Jan-2020 23:12:22 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Attach.php on line 7
+[08-Jan-2020 23:12:23 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Message.php on line 7
+[08-Jan-2020 23:12:24 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Faq.php on line 7
+[08-Jan-2020 23:12:25 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Room.php on line 7
+[08-Jan-2020 23:12:26 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/City.php on line 7
+[08-Jan-2020 23:12:27 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Setting.php on line 7
+[08-Jan-2020 23:12:28 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/VendorPlans.php on line 7
+[08-Jan-2020 23:12:29 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Notification.php on line 7
+[08-Jan-2020 23:12:30 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Contact.php on line 7
+[08-Jan-2020 23:12:31 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Favorite.php on line 7
+[08-Jan-2020 23:12:32 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/Category.php on line 7
+[08-Jan-2020 23:12:33 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/uriallab/public_html/monasbat/app/Models/VendorDetails.php on line 7

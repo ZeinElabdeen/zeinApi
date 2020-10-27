@@ -1,0 +1,110 @@
+/********************** تصميم صفحة معرض الفيديو  ****************************/
+
+/* START HEADER STYLE */
+
+header {
+    background-image: url('/storage/images/image 3.png');
+    width: 100%;
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+     background-repeat: no-repeat;
+     opacity: .9;
+}
+
+header .banner {
+   margin: 65px 0 ;
+
+}
+
+header .banner h2 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.banner > span {
+    font-size: 25px;
+    color: #fff;
+}
+
+.banner span:first-child{
+    color: #ffae00;
+    font-size: 25px;
+}
+
+
+/*  END Header */
+
+/* Start VEDIO SECTION STYLE */
+
+.vedio{
+    margin: 30px 0;
+}
+.vedio img {
+    width: 100%;
+    margin: 10px 0;
+    height: 50vh;
+    border-radius: 15px;
+}
+
+.vedio .image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+
+  .vedio .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .middle:hover{
+      opacity: .8;
+  }
+
+  .text  {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 16px 32px;
+  }
+  .text a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .text img {
+      height: 100px;
+      width: 100%;
+  }
+
+  .vedio .pagination .page-item {
+    padding: 0 20px;
+    margin: 30px 0 20px 0;
+ }
+
+  .vedio .pagination  {
+    justify-content: center;
+ }
+  .vedio .pagination .page-link {
+    border: none;
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+ }
+ .vedio .pagination .active {
+   color: #ffae00 !important;
+   background-color: #fff;
+ }
+
+  /* END VEDIO STYLE */

@@ -1,0 +1,104 @@
+[08-Jan-2020 22:44:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/jwt.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/jwt.php on line 28
+[08-Jan-2020 22:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/uriallab/public_html/monasbat/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/view.php on line 17
+[08-Jan-2020 22:45:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/queue.php on line 16
+[08-Jan-2020 22:46:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/app.php on line 16
+[08-Jan-2020 22:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/hashing.php on line 32
+[08-Jan-2020 22:47:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/session.php on line 21
+[08-Jan-2020 22:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/filesystems.php on line 16
+[08-Jan-2020 22:49:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/mail.php on line 19
+[08-Jan-2020 22:50:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/cache.php on line 21
+[08-Jan-2020 22:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/logging.php on line 19
+[08-Jan-2020 22:51:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/services.php on line 18
+[08-Jan-2020 22:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/database.php on line 18
+[19-Jan-2020 06:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/app.php on line 16
+[19-Jan-2020 07:28:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/jwt.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/jwt.php on line 28
+[19-Jan-2020 10:07:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/uriallab/public_html/monasbat/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/view.php on line 17
+[19-Jan-2020 13:49:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/mail.php on line 19
+[19-Jan-2020 14:56:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/queue.php on line 16
+[19-Jan-2020 16:22:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/cache.php on line 21
+[19-Jan-2020 18:56:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/hashing.php on line 32
+[19-Jan-2020 20:00:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/logging.php on line 19
+[19-Jan-2020 20:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/session.php on line 21
+[19-Jan-2020 20:10:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/services.php on line 18
+[19-Jan-2020 20:18:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/database.php on line 18
+[19-Jan-2020 20:53:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/filesystems.php on line 16
+[19-Jan-2020 21:39:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/broadcasting.php on line 18
+[30-Jan-2020 15:03:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uriallab/public_html/monasbat/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/config/broadcasting.php on line 18

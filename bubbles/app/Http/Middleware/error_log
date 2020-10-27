@@ -1,0 +1,7 @@
+[17-Jan-2020 01:18:05 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/uriallab/public_html/bubbles/app/Http/Middleware/TrimStrings.php on line 7
+[17-Jan-2020 01:18:35 UTC] PHP Fatal error:  Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/uriallab/public_html/bubbles/app/Http/Middleware/Authenticate.php on line 7
+[17-Jan-2020 01:18:50 UTC] PHP Fatal error:  Class 'Fideloper\Proxy\TrustProxies' not found in /home/uriallab/public_html/bubbles/app/Http/Middleware/TrustProxies.php on line 8
+[17-Jan-2020 01:19:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/bubbles/app/Http/Middleware/CheckUserType.php on line 8
+[17-Jan-2020 01:19:12 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/uriallab/public_html/bubbles/app/Http/Middleware/EncryptCookies.php on line 7
+[17-Jan-2020 01:20:22 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/uriallab/public_html/bubbles/app/Http/Middleware/VerifyCsrfToken.php on line 9
+[17-Jan-2020 01:20:51 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/uriallab/public_html/bubbles/app/Http/Middleware/CheckForMaintenanceMode.php on line 7

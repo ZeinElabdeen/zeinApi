@@ -1,0 +1,2 @@
+[16-Jan-2020 16:31:42 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/uriallab/public_html/bubbles/tests/TestCase.php on line 7
+[21-Jan-2020 15:22:08 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/uriallab/public_html/bubbles/tests/TestCase.php on line 7

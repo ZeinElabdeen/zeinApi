@@ -1,0 +1,6 @@
+[17-Jan-2020 02:46:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Api/User/RegisterController.php on line 11
+[17-Jan-2020 02:46:49 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Api/User/ChangePassword.php on line 9
+[17-Jan-2020 02:47:08 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Api/User/VerifyController.php on line 8
+[17-Jan-2020 02:50:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Api/User/ProfileController.php on line 12
+[17-Jan-2020 02:51:16 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Api/User/ResetPasswordController.php on line 11
+[17-Jan-2020 02:51:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Api/User/LoginController.php on line 9

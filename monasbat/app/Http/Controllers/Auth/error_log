@@ -1,0 +1,5 @@
+[09-Jan-2020 00:01:23 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Auth/RegisterController.php on line 11
+[09-Jan-2020 00:01:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Auth/LoginController.php on line 8
+[09-Jan-2020 00:01:56 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[03-Feb-2020 17:02:40 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[03-Feb-2020 17:03:18 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Auth/VerificationController.php on line 8

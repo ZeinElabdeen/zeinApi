@@ -1,0 +1,256 @@
+/**********تصميم الاقسام المشتركة داخل الموقع  **********************/
+/*********** primary CSS Style*********** */
+
+/* Start Upper Bar */
+
+.upper-bar {
+    background-color: #333333;
+    color: #fff;
+}
+
+.upper-bar .info {
+    margin: auto;
+    line-height: 60px;
+}
+
+@media (max-widith:576px){
+    .upper-bar .info:first-child{
+        margin-bottom: 0;
+    }
+}
+
+.upper-bar span{
+  color:  #ffff; 
+  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+}
+.upper-bar a {
+    text-decoration: none;
+}
+.upper-bar .btn{
+    color: #fff;
+}
+.upper-bar .dropdown-menu a{
+    color:#343a40;
+    text-align: right;
+}
+.upper-bar .btn:active{
+    border: none;
+}
+.upper-bar .border {
+    border: 1px solid #fff;
+    margin: 0 5px;
+}
+@media (max-widith:576px){
+    .upper-bar .info:first-child{
+       border: none;
+       margin-left: 5px;
+    }
+}
+/* END Upper Bar */
+
+/* Start Nav Bar */
+.navbar{
+   padding: 20px 0;
+    text-align: center;
+}
+.navbar-brand > span {
+    font-size: 40px;
+    color: #ffae00;
+}
+.navbar-brand span:first-child {
+    color: #484848;
+    
+}
+.navbar .nav-link{
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-right: 28px;
+    color:#484848 !important;
+    
+}
+.navbar-nav .active > .nav-link {
+  color:#ffae00!important;
+  border-bottom: 1px solid #ffae00;
+}
+.navbar ul li img{
+    width: 50px;
+    padding:18px 14px;
+}
+
+.navbar .dropdown-menu a:hover{
+    color:#ffae00;
+}
+
+/* End Nav Bar */
+
+/* Start Search Bar */
+
+.search {
+    margin:25px 0;
+}
+.search-bar {
+    box-shadow: 0px 10px 30px 0px rgba(130,136,184,0.2);
+    border: 1px solid #fff;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 10px;
+    
+}
+.search #category:hover {
+    color: #ffae00;
+}
+
+.search h4 {
+    text-align: right;
+    font-size: 16px;
+    padding: 0 14px 0 0;
+}
+.search a {
+    background-color: #ffae00;
+    padding: 10px 40px;
+    display: inline-block;
+    margin-top: 22px;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 25px;
+    text-decoration: none;
+}
+.search a:hover {
+    cursor: pointer;
+}
+ 
+.search .form-control{
+    border-radius: 1.25rem;
+    text-align: center;
+}
+
+/* End Search */
+
+/* Start Partner */
+
+.partner {
+    margin: 20px 0 125px 0;
+    text-align: right;
+}
+.partner img {
+    width: 100%;
+}
+.partner .carousel-item {
+    background-color: #fff !important;
+}
+
+.partner h1{
+    color: #565656;
+    text-align: center;
+}
+@media (min-width: 576px) {
+    .partner img {
+        text-align: center;
+      
+    }
+ }
+
+ /* END Partner */
+
+
+/* Start News (overlay-bottom) */
+.overlay-bottom {
+    margin:-85px 0;
+    position: relative;
+    z-index: 11;
+    color: #333333;
+}
+.overlay-bottom .news{
+    box-shadow: 0px 10px 30px 0px rgba(130,136,184,0.2);
+    border: 1px solid #fff;
+    background-color: #fff;
+    padding: 25px 0;
+}
+
+.news .input-group{
+    padding: 6px 40px;
+}
+
+.overlay-bottom .input-group-prepend  a{
+    background-color: #ffae00;
+    padding: 6px 35px;
+    color: #fff;
+    text-decoration: none;
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+}
+@media (min-width: 768px){
+    .overlay-bottom h1{
+      font-size: 18px;
+      padding: 8px 2px;
+    }
+}
+@media (min-width: 576px) {
+    .overlay-bottom h1 {
+        text-align: center;
+    }
+ }
+
+/* END News (overlay-bottom) */
+
+/* Start Footer */
+
+footer {
+    background-image: url('../../storage/images/Footer.png');
+    width: 100%;
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+     background-repeat: no-repeat;
+     margin: 20px 0 0;
+}
+
+footer h3 {
+    color: #FFF;
+    text-align: right;
+    font-size: 25px;
+    font-weight: 400;
+    margin: 100px 0 0 0;
+}
+
+footer p{
+    text-align: right;
+    color: #FFF;
+    font-size: 12px;
+}
+
+footer .list-inline {
+    display: flex;
+    list-style: none;
+}
+footer ul .list-icon {
+    margin: 0 10px;
+}
+
+footer ul {
+    list-style: none;
+    color: #FFF;
+}
+footer ul {
+    text-align: justify;
+}
+footer ul .list-item {
+    padding: 8px 0;
+}
+footer ul .list-item a {
+    color: #FFF ;
+    text-decoration: none;
+    margin: 0 6px;
+}
+footer ul .list-item span {
+    margin: 0 15px;
+}
+
+/* END Footer */
+/****************************/
+
+/************ MOST USED*****************/
+

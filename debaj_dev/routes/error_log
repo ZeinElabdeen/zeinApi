@@ -1,0 +1,48 @@
+[09-Jan-2020 04:23:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/uriallab/public_html/monasbat/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/web.php on line 14
+[09-Jan-2020 04:23:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/uriallab/public_html/monasbat/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/api.php on line 16
+[09-Jan-2020 04:23:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/uriallab/public_html/monasbat/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/console.php on line 16
+[09-Jan-2020 04:23:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/uriallab/public_html/monasbat/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/channels.php on line 14
+[09-Jan-2020 20:59:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/uriallab/public_html/monasbat/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/web.php on line 14
+[09-Jan-2020 21:00:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/uriallab/public_html/monasbat/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/api.php on line 16
+[09-Jan-2020 21:01:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/uriallab/public_html/monasbat/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/channels.php on line 14
+[10-Jan-2020 23:27:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/uriallab/public_html/monasbat/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/console.php on line 16
+[19-Jan-2020 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/uriallab/public_html/monasbat/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/api.php on line 16
+[19-Jan-2020 12:44:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/uriallab/public_html/monasbat/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/web.php on line 14
+[19-Jan-2020 17:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/uriallab/public_html/monasbat/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/console.php on line 16
+[19-Jan-2020 20:14:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/uriallab/public_html/monasbat/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uriallab/public_html/monasbat/routes/channels.php on line 14

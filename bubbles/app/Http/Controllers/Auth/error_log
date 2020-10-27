@@ -1,0 +1,5 @@
+[17-Jan-2020 03:10:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[17-Jan-2020 03:10:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Auth/LoginController.php on line 8
+[17-Jan-2020 03:10:33 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[17-Jan-2020 03:10:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Auth/RegisterController.php on line 11
+[17-Jan-2020 03:10:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/bubbles/app/Http/Controllers/Auth/VerificationController.php on line 8

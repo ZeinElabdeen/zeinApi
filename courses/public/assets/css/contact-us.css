@@ -1,0 +1,88 @@
+/*************** تصميم صفحة اتصل بنا **************/
+
+/* Header Style */
+
+header {
+    background-image: url('/storage/images/image 3.png');
+    width: 100%;
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+     background-repeat: no-repeat;
+     opacity: .9;
+}
+
+header .banner {
+   margin: 65px  0;
+
+}
+
+header .banner h2 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.banner > span {
+    font-size: 25px;
+    color: #fff;
+}
+
+.banner span:first-child{
+    color: #ffae00;
+    font-size: 25px;
+}
+
+/* END HEADER */
+
+/* Start Contact-US */
+
+.contact-us {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.contact-us .form-signin  {
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    margin: auto;
+    border: 2px solid #dae0e5;
+    border-radius: 10px;
+}
+.contact-us .form-signin .us {
+    border-left: 1px solid #dae0e5 ;
+}
+.form-signin h4 {
+  color: #ffae00;
+  font-weight: bold;
+}
+
+ .contact-us .form-signin label {
+    display: flex;
+    margin: 10px 0;
+    color: #666666;
+    font-weight: bold;
+ }
+ .contact-us .form-signin .form-control{
+    border-top-left-radius: 28px;
+    border-bottom-left-radius: 28px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 45px;
+ }
+
+ .contact-us .form-signin .btn {
+     margin: 20px 0;
+     background-color: #ffae00;
+     color: #fff;
+     border-radius: 28px;
+ }
+
+ .contact-us .form-signin a {
+     text-decoration: none;
+     color: #ffae00;
+     font-size: 18px;
+ }
+
+/* END CONTACT-US*/
+

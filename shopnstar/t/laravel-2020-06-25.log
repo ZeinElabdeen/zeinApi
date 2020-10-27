@@ -1,0 +1,42 @@
+[2020-06-25 16:13:30] deploy.ERROR: proc_close() has been disabled for security reasons {"exception":"[object] (ErrorException(code: 0): proc_close() has been disabled for security reasons at /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php:165)
+[stacktrace]
+#0 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'proc_close() ha...', '/home/uriallab/...', 165, Array)
+#1 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(165): proc_close(Resource id #392)
+#2 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(143): Symfony\\Component\\Console\\Terminal::readFromProcess('stty -a | grep ...')
+#3 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(109): Symfony\\Component\\Console\\Terminal::getSttyColumns()
+#4 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(92): Symfony\\Component\\Console\\Terminal::initDimensionsUsingStty()
+#5 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(52): Symfony\\Component\\Console\\Terminal::initDimensions()
+#6 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Application.php(117): Symfony\\Component\\Console\\Terminal->getHeight()
+#7 /home/uriallab/public_html/shopnstar/vendor/laravel/framework/src/Illuminate/Console/Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 /home/uriallab/public_html/shopnstar/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 /home/uriallab/public_html/shopnstar/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2020-06-25 16:14:16] deploy.ERROR: proc_close() has been disabled for security reasons {"exception":"[object] (ErrorException(code: 0): proc_close() has been disabled for security reasons at /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php:165)
+[stacktrace]
+#0 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'proc_close() ha...', '/home/uriallab/...', 165, Array)
+#1 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(165): proc_close(Resource id #392)
+#2 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(143): Symfony\\Component\\Console\\Terminal::readFromProcess('stty -a | grep ...')
+#3 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(109): Symfony\\Component\\Console\\Terminal::getSttyColumns()
+#4 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(92): Symfony\\Component\\Console\\Terminal::initDimensionsUsingStty()
+#5 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(52): Symfony\\Component\\Console\\Terminal::initDimensions()
+#6 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Application.php(117): Symfony\\Component\\Console\\Terminal->getHeight()
+#7 /home/uriallab/public_html/shopnstar/vendor/laravel/framework/src/Illuminate/Console/Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 /home/uriallab/public_html/shopnstar/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 /home/uriallab/public_html/shopnstar/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2020-06-25 16:26:13] deploy.ERROR: proc_close() has been disabled for security reasons {"exception":"[object] (ErrorException(code: 0): proc_close() has been disabled for security reasons at /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php:165)
+[stacktrace]
+#0 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'proc_close() ha...', '/home/uriallab/...', 165, Array)
+#1 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(165): proc_close(Resource id #392)
+#2 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(143): Symfony\\Component\\Console\\Terminal::readFromProcess('stty -a | grep ...')
+#3 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(109): Symfony\\Component\\Console\\Terminal::getSttyColumns()
+#4 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(92): Symfony\\Component\\Console\\Terminal::initDimensionsUsingStty()
+#5 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Terminal.php(52): Symfony\\Component\\Console\\Terminal::initDimensions()
+#6 /home/uriallab/public_html/shopnstar/vendor/symfony/console/Application.php(117): Symfony\\Component\\Console\\Terminal->getHeight()
+#7 /home/uriallab/public_html/shopnstar/vendor/laravel/framework/src/Illuminate/Console/Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 /home/uriallab/public_html/shopnstar/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 /home/uriallab/public_html/shopnstar/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 

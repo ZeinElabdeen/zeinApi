@@ -1,0 +1,11 @@
+[17-Jan-2020 00:52:44 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/DriverResource.php on line 7
+[17-Jan-2020 00:53:00 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/UserResource.php on line 7
+[17-Jan-2020 00:53:34 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/ClubImagesResource.php on line 8
+[17-Jan-2020 00:54:08 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/UserFollowsCollection.php on line 7
+[17-Jan-2020 00:54:41 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/PackageImagesResource.php on line 8
+[17-Jan-2020 00:55:14 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/FaqResource.php on line 7
+[17-Jan-2020 00:55:47 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/PackageDetailsResource.php on line 7
+[17-Jan-2020 00:56:15 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/UserPackagesCollection.php on line 7
+[17-Jan-2020 00:56:34 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/NotificationCollection.php on line 7
+[17-Jan-2020 00:57:25 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\JsonResource' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/SettingResource.php on line 7
+[17-Jan-2020 00:59:18 UTC] PHP Fatal error:  Class 'Illuminate\Http\Resources\Json\ResourceCollection' not found in /home/uriallab/public_html/bubbles/app/Http/Resources/NewPackagesCollection.php on line 7

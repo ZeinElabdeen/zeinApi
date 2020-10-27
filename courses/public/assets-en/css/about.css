@@ -1,0 +1,53 @@
+/************* تصميم صفحة من نحن *********************/
+
+/******** About Page Style ***********/
+
+/* Start Header */
+
+header {
+    background-image: url('../../storage/images/image 3.png');
+    width: 100%;
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    opacity: .9;
+}
+
+header .banner {
+   margin: 65px 0 ;
+    
+}
+
+header .banner h2 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.banner > span {
+    font-size: 25px;
+    color: #fff;
+}
+
+.banner span:first-child{
+    color: #ffae00;
+    font-size: 25px;
+}
+
+
+/*  END Header */
+
+/* Start About-US */
+
+.about-us{
+    margin: 50px 0 50px 0;
+    text-align: left;
+}
+ .about-us .info {
+     margin-top: 30px;
+ }
+
+ /* END About-US */
+
+ /********** END About Page ***********/

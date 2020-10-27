@@ -1,0 +1,6 @@
+[09-Jan-2020 00:20:27 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Api/User/UpdatePassword.php on line 8
+[09-Jan-2020 00:20:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Api/User/LoginController.php on line 9
+[09-Jan-2020 00:21:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Api/User/UserDetailsController.php on line 9
+[09-Jan-2020 00:24:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Api/User/VerifyController.php on line 8
+[05-Feb-2020 09:42:18 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Api/User/ResetPasswordController.php on line 11
+[05-Feb-2020 20:52:21 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ResponseController' not found in /home/uriallab/public_html/monasbat/app/Http/Controllers/Api/User/UpdateImage.php on line 7

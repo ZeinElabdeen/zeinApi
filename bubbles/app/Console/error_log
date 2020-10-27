@@ -1,0 +1,1 @@
+[30-Jan-2020 14:59:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/uriallab/public_html/bubbles/app/Console/Kernel.php on line 8

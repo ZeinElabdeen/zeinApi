@@ -1,0 +1,152 @@
+/************** تصميم الصفحة الرئيسية ***********/
+
+/**************HOME PAGE STYLE ***************/
+
+/* Start carousel */
+
+.image-banner {
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+     background-repeat: no-repeat;
+     height: 100vh;
+}
+
+.carousel-caption{
+    padding-bottom: 150px;
+    font-family: sans-serif;
+}
+
+.carousel-caption h2 {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.carousel-caption p{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.carousel-caption a{
+    background-color: #ffae00;
+    padding: 15px 35px;
+    display: inline-block;
+    margin-top: 15px;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 25px;
+    text-decoration: none;
+}
+/*media */
+@media only screen and (min-width:768px) and (max-width:991px){
+    .carousel-caption{
+        padding-bottom: 150px;
+    }
+    .carousel-caption h2 {
+        font-size: 50px;
+    }
+}
+@media only screen and (max-width:768px){
+    .carousel-caption {
+        padding-bottom: 200px;
+    }
+    .carousel-caption h2{
+        font-size: 25px;
+    }
+    .carousel-caption a{
+        padding: 10px 25px;
+    }
+}
+/* End media */
+
+/* End carousel */
+
+/*  Start Search */
+
+.overlay-top {
+    margin-top: -55px;
+    position: relative;
+    z-index: 11;
+}
+
+.light {
+    box-shadow: 0px 10px 30px 0px rgba(130,136,184,0.2);
+    border: 1px solid #fff;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 10px;
+}
+.overlay-top h4 {
+    text-align: right;
+    font-size: 16px;
+    padding: 0 14px 0 0;
+}
+.overlay-top a{
+    background-color: #ffae00;
+    padding: 10px 40px;
+    display: inline-block;
+    margin-top: 22px;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 25px;
+    text-decoration: none;
+}
+.overlay-top a:hover {
+    cursor: pointer;
+}
+ 
+.overlay-top .form-control{
+    border-radius: 1.25rem;
+    text-align: center;
+}
+
+/* END SEARCH*/
+
+/* Start About */
+.about {
+    margin: 50px 0;
+    text-align: right;
+}
+.about .border {
+    border: 1px solid #ffae00 ;
+}
+/* END About*/
+
+/* Start App */
+.app {
+    background-image: url('../../storage/images/image2.png');
+    width: 100%;
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+     background-repeat: no-repeat;
+}
+
+.app-store h3 {
+    font-size: 37px;
+    font-weight: 400;
+    font-style: italic;
+    color: #fff;
+    text-align: right;
+}
+.app span{
+   font-size: 37px;
+   font-weight: 400;
+   font-style: italic;
+   color: #ffae00;
+   text-align: right;
+}
+.app p {
+   font-size: 18px;
+   color:#a8a8a8;
+   text-align: right;
+}
+.app-store {
+   padding: 70px 0;
+   text-align: right;
+}
+.app-store img {
+   text-align:center ;
+   margin: 5px 0;
+}
+/* End App */
+

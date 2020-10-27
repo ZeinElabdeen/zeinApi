@@ -1,0 +1,2 @@
+[08-Jan-2020 23:27:53 UTC] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/uriallab/public_html/monasbat/tests/Feature/ExampleTest.php on line 8
+[09-Jan-2020 04:19:20 UTC] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/uriallab/public_html/monasbat/tests/Feature/ExampleTest.php on line 8

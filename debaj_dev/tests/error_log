@@ -1,0 +1,2 @@
+[08-Jan-2020 21:55:58 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/uriallab/public_html/monasbat/tests/TestCase.php on line 7
+[09-Jan-2020 03:53:07 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/uriallab/public_html/monasbat/tests/TestCase.php on line 7

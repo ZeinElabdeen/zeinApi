@@ -1,0 +1,67 @@
+/******** تصميم صفحة الشروط و الأحكام *********/
+
+
+/* Start Header */
+
+
+header {
+    background-image: url('/storage/images/image 3.png');
+    width: 100%;
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    opacity: .9;
+    margin: 0 0 25px 0;
+}
+
+header .banner {
+   margin: 65px 0 ;
+
+}
+
+header .banner h2 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.banner > span {
+    font-size: 25px;
+    color: #fff;
+}
+
+.banner span:first-child{
+    color: #ffae00;
+    font-size: 25px;
+}
+
+
+/*  END Header */
+
+
+.terms {
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    padding: 15px;
+    text-align: right;
+ }
+
+ .terms h1 {
+     color: #ffae00;
+     font-size: 30px;
+     font-weight: bold;
+     margin-bottom:0;
+ }
+
+ .terms hr {
+     margin-bottom: 15px;
+    width: 30%;
+     border: 2px solid #ffae00;
+ }
+
+ .terms p {
+     color: #666666;
+     font-size: 18px;
+ }

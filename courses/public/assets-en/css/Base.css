@@ -1,0 +1,77 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Helvetica Neue, helvetica, arial, sans-serif;
+}
+
+/************ MOST USED*****************/
+/* hr style */
+
+
+.hr-md{
+    width: 35%;
+    margin: 0 0 1rem 0;
+    background-color: #ffae00;
+}
+
+.hr-footer{
+    width: 112%;
+    margin: 0px 85px 15px 0;
+    background-color: #666666;
+}
+
+/* Head Style */
+
+.head-1{
+    color: #ffae00;
+    font-size: 30px;
+}
+.head-2 {
+    color: #202020;
+    font-size:40px;
+    font-weight: 600;
+}
+
+.head-6{
+    color: #484848;
+    font-size: 20px;
+}
+
+/*Paragraph style*/
+
+.large-text {
+    color:#a8a8a8;
+    font-size: 20px;
+}
+
+.small-text{
+    font-size: 15px;
+    color:#a8a8a8;
+    
+}
+
+/************END *********/
+
+/* Card Style*/
+.card-title{
+    font-size: 20px;
+    color: #565656;
+    text-align: left !important;
+}
+.card-subtitle{
+    text-align: left !important;
+    font-size: 13px;
+    
+    
+}
+.card-text{
+    font-size: 18px;
+    color: #a8a8a8;
+    text-align: left !important;
+}
+
+/********END*********/

@@ -1,0 +1,2 @@
+[16-Jan-2020 20:47:38 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/uriallab/public_html/bubbles/app/Http/Requests/PackageRequest.php on line 7
+[16-Jan-2020 20:48:05 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/uriallab/public_html/bubbles/app/Http/Requests/StoreHadithRequest.php on line 7

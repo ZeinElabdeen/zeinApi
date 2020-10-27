@@ -1,0 +1,130 @@
+/************* تصميم صفحة دورة التعليمية************/
+
+/* Start HEADER */
+
+header {
+    background-image: url('../../storage/images/image 3.png');
+    width: 100%;
+
+    -webkit-border-size: cover ;
+    background-size: cover ;
+    background-position: center center;
+     background-repeat: no-repeat;
+     opacity: .9;
+}
+
+header .banner {
+   margin: 65px  0;
+    
+}
+
+header .banner h2 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.banner > span {
+    font-size: 25px;
+    color: #fff;
+}
+
+.banner span:first-child{
+    color: #ffae00;
+    font-size: 25px;
+}
+
+/*  END Header */
+
+/* Start COURSE-INFO Style */
+
+.cours-info {
+    margin: 25px 0;
+}
+.cours-info h6  {
+    text-align: right;
+}
+
+.cours-info p{
+    text-align: right;
+    font-weight: bold;
+    color: #565656;
+}
+
+.cours-info {
+    text-align: right;
+}
+.cours-info span {
+    font-size: 18px;
+    color: #999999;
+}
+.cours-info h4 {
+    color: #666666;
+}
+.cours-info h3 {
+    color: #666666;
+    margin-top: 20px;
+}
+.cours-info .img-nav {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.cours-info .nav-tabs .nav-link {
+    color: #666666;
+    font-size: 18px;
+}
+.cours-info .nav-tabs .active {
+    background-color: #ffae00;
+    color: #fff;
+
+}
+
+.cours-info .dot .fas {
+    color: #ffae00 !important;
+    padding:10px 0 ; 
+}
+.cours-info .dot span {
+    color: #666666;
+
+}
+
+.cours-info .side-bar .my-0  {
+    padding: 9px 0;
+    color: #666666;
+    font-size: 18px;
+}
+.cours-info .side-bar .text-muted {
+    width: 70%;
+}
+
+.cours-info .side-bar label {
+    color: #666666;
+    font-size: 18px;
+}
+.cours-info   .input-group-append  .btn{
+    color: #fff;
+    border-top-left-radius: 28px;
+    border-bottom-left-radius: 28px ;
+    border:0;
+
+}
+.cours-info .side-bar a {
+    color: #ffff;
+    font-size: 18px;
+    text-decoration: none;
+}
+.cours-info .side-bar .button1 {
+    text-align: center;
+    border-radius: 28px;
+    margin: 15px 0;
+    background-color:#22262A ;
+}
+
+.cours-info .side-bar .button2 {
+    text-align: center;
+    border-radius: 28px;
+    margin: 15px 0;
+    background-color:#ffae00 ;
+}
+
+/* END COURSE-INFO */
